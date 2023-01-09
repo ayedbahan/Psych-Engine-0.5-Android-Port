@@ -64,7 +64,7 @@ class CreditsState extends MusicBeatState
 			}
 		}
 		#end
-'
+			
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color 
 			['Psych Engine Android'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',      'F73838'],
